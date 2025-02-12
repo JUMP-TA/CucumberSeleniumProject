@@ -10,6 +10,7 @@ The folder WEBPAGE contains two HTML files that you are going to test.  You can 
 
 The folder CucumberSeleniumExample is a project whose POM XML contains the repositiories necessary to turn Cucumber feature files into Selenium tests.  
 Try it yoruself by converting the following User Stories into Gherkin feature files, then implementing them in a step definition file
-- As a User, I should be able to enter my username and password and be redirected to the success page
-- As a User, I should not be able to log in if my my username and password are not valid
+- As a User, I should be able to enter my email and password and be redirected to the success page
+- As a User, I should not be able to log in if my my email is not valid
 - As a User, I should not be able to be redirected to the success page if the username or password fields are blank
+Be sure to note if the implementation fails for any of these User Stories
