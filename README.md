@@ -1,4 +1,4 @@
-##Example Projects from the Cucumber Selenium training
+#Example Projects from the Cucumber Selenium training
 
 This repo contains 4 folders.  The two examples we went over in the course are CucumberExample and SeleniumExample
 
